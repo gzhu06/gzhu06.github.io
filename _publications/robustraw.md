@@ -5,7 +5,7 @@ permalink: /publication/robustraw
 date: 2022-05-01
 venue: 'ICASSP'
 ---
-<b>Ge Zhu</b>, Fei Jiang, Zhiyao Duan. <i>ICASSP 2022</i>
+<b>Ge Zhu</b>, Frank Cwitkowitz, Zhiyao Duan. <i>ICASSP 2022</i>
 
 <b>Abstract</b>: In this paper, we conduct a cross-dataset study on parametric and non-parametric raw-waveform based speaker embeddings through speaker verification experiments. In general, we observe a more significant performance degradation of these raw-waveform systems compared to spectral based systems. We then propose two strategies to improve the performance of raw-waveform based systems on cross-dataset tests. The first strategy is to change the real-valued filters into analytic filters to ensure shift-invariance. The second strategy is to apply variational dropout to non-parametric filters to prevent them from overfitting irrelevant nuance features.
 
