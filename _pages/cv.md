@@ -17,25 +17,24 @@ Education
 
 Work experience
 ======
-* Summer 2021: Research Intern
+* Spring 2023: Part-time research
+  * Ubisoft
+  * Supervisor: [Marc-André Carbonneau](https://sites.google.com/site/marcandrecarbonneau/?pli=1)  
+
+* Fall 2021~Fall 2022: Part-time research engineer
   * Adobe Research
-  * Research Topic: Robust voice activity detection, filler word detection
+  * Research Topic: Deployment of robust voice activity detection and filler word detection
+  * Supervisor: [Juan-Pablo Caceres](https://ccrma.stanford.edu/~jcaceres/) and [Justin Salamon](https://www.justinsalamon.com/) 
+
+* Summer 2021: Research intern
+  * Adobe Research
+  * Research Topic: Robust voice activity detection and filler word detection
   * Supervisor: [Justin Salamon](https://www.justinsalamon.com/) and [Juan-Pablo Caceres](https://ccrma.stanford.edu/~jcaceres/)
 
-* Fall 2020: Research Intern
+* Fall 2020: Research intern
   * Kuaishou Technology 
-  * Research Topic: Lyrics onset detection, singing voice conversion
+  * Research Topic: Lyrics onset detection and singing voice conversion
   * Supervisor: [Baigong Zheng](https://www.linkedin.com/in/baigongzheng/) and [Zhiyao Duan](http://www2.ece.rochester.edu/~zduan/)
-  
-* Summer 2021~Now: Part-time research Intern
-  * Adobe Research
-  * Research Topic: Robust voice activity detection, filler word detection
-  * Supervisor: [Juan-Pablo Caceres](https://ccrma.stanford.edu/~jcaceres/) and [Justin Salamon](https://www.justinsalamon.com/) 
-  
-* Summer 2019~Now: Part-time speech engineer
-  * Voice Biometrics Group
-  * Project: Development and deployment of speaker recognition engine using convolutional neural networks
-  * Supervisor: [Zhiyao Duan](http://www2.ece.rochester.edu/~zduan/) 
   
 Publications
 ======
