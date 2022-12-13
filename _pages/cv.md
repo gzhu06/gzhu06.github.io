@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Physics, Nanjing University, 2015
 * M.S. in Acoustics, Nanjing University, 2018
-* Ph.D in Electrcial Engineering, University of Rochester, 2023 (expected)
+* Ph.D in Electrcial Engineering, University of Rochester, 2024 (expected)
 
 Work experience
 ======
