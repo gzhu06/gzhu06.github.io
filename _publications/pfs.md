@@ -11,3 +11,13 @@ venue: 'Preprint'
 
 [[Homepage]](https://podcastfillers.github.io/)[[Arxiv]](https://arxiv.org/abs/2203.15135)
 
+```
+@inproceedings{zhu22e_interspeech,
+  author={Ge Zhu and Juan-Pablo Caceres and Justin Salamon},
+  title={{Filler Word Detection and Classification: A Dataset and Benchmark}},
+  year=2022,
+  booktitle={Proc. Interspeech 2022},
+  pages={3769--3773},
+  doi={10.21437/Interspeech.2022-10992}
+}
+```
