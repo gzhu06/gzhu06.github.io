@@ -11,3 +11,14 @@ venue: 'IEEE Signal Processing Letters'
 
 [[Code]](https://github.com/gzhu06/GenerativeSourceSeparation)[[IEEE SPL]](https://ieeexplore.ieee.org/document/9937074)
 
+```
+@ARTICLE{zhu22music,
+  author={Zhu, Ge and Darefsky, Jordan and Jiang, Fei and Selitskiy, Anton and Duan, Zhiyao},
+  journal={IEEE Signal Processing Letters}, 
+  title={Music Source Separation With Generative Flow}, 
+  year={2022},
+  volume={29},
+  number={},
+  pages={2288-2292},
+  doi={10.1109/LSP.2022.3219355}}
+  ```
