@@ -1,5 +1,5 @@
 ---
-title: "A probabilistic fusion framework for spoofing aware speaker verification"
+title: "A Probabilistic Fusion Framework for Spoofing Aware Speaker Verification"
 collection: publications
 permalink: /publication/sasvprob
 date: 2022-06-01

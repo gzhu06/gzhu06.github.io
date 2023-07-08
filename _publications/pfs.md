@@ -3,7 +3,7 @@ title: "Filler Word Detection and Classification: A Dataset and Benchmark"
 collection: publications
 permalink: /publication/pfs
 date: 2022-07-01
-venue: 'Preprint'
+venue: 'Interspeech 2022'
 ---
 <b>Ge Zhu</b>, Juan-Pablo Caceres, Justin Salamon. <i>Interspeech 2022</i>
 

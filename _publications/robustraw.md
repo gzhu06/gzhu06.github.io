@@ -1,5 +1,5 @@
 ---
-title: "A study of the robustness of raw waveform based speaker embeddings under mismatched conditions"
+title: "A Study of the Robustness of Raw Waveform Based Speaker Embeddings Under Mismatched Conditions"
 collection: publications
 permalink: /publication/robustraw
 date: 2022-05-01
