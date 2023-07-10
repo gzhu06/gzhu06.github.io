@@ -17,8 +17,13 @@ Education
 
 Work experience
 ======
-* Spring 2023: Part-time research
+* Summer 2023: Research intern
+  * Adobe Research
+  * Supervisor: [Nick Bryan](https://ccrma.stanford.edu/~njb/) and [Juan-Pablo Caceres](https://ccrma.stanford.edu/~jcaceres/)
+
+* Spring 2023: Part-time research intern
   * Ubisoft
+  * Controllable high-quality sound effects generation 
   * Supervisor: [Marc-André Carbonneau](https://sites.google.com/site/marcandrecarbonneau/?pli=1)  
 
 * Fall 2021~Fall 2022: Part-time research engineer
