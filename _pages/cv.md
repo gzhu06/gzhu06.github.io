@@ -23,7 +23,7 @@ Work experience
 
 * Spring 2023: Part-time research intern
   * Ubisoft
-  * Controllable high-quality sound effects generation 
+  * Research Topic: Controllable high-quality sound effects generation 
   * Supervisor: [Marc-André Carbonneau](https://sites.google.com/site/marcandrecarbonneau/?pli=1)  
 
 * Fall 2021~Fall 2022: Part-time research engineer
