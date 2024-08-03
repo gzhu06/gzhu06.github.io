@@ -5,7 +5,7 @@ permalink: /publication/instglow
 date: 2022-11-03
 venue: 'IEEE Signal Processing Letters'
 ---
-<b>Ge Zhu</b>,  Jordan Darefsky, Fei Jiang, Anton Selitskiy, Zhiyao Duan. <i>IEEE Signal Processing Letters 2022</i>
+<b>Ge Zhu</b>,  Jordan Darefsky, Fei Jiang, Anton Selitskiy, Zhiyao Duan. <i>IEEE Signal Processing Letters</i>
 
 <b>Abstract</b>: Full supervision models for source separation are trained on mixture-source parallel data and have achieved superior performance in recent years. However, large-scale and naturally mixed parallel training data are difficult to obtain for music, and such models are difficult to adapt to mixtures with new sources. Source-only supervision models, in contrast, only require clean sources for training; They learn source models and then apply these models to separate the mixture.
 
