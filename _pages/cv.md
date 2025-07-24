@@ -13,10 +13,14 @@ Education
 ======
 * B.S. in Physics, Nanjing University, 2015
 * M.S. in Acoustics, Nanjing University, 2018
-* Ph.D in Electrcial Engineering, University of Rochester, 2024 (expected)
+* Ph.D in Electrcial and Computer Engineering, University of Rochester, 2025
 
 Work experience
 ======
+* Spring 2024~Now: Full-time Research Scientist/Engineer
+  * Adobe Research
+  * Research Topic: Music AI
+
 * Summer 2023: Research intern
   * Adobe Research
   * Supervisor: [Nick Bryan](https://ccrma.stanford.edu/~njb/) and [Juan-Pablo Caceres](https://ccrma.stanford.edu/~jcaceres/)
@@ -40,9 +44,4 @@ Work experience
   * Kuaishou Technology 
   * Research Topic: Lyrics onset detection and singing voice conversion
   * Supervisor: [Baigong Zheng](https://www.linkedin.com/in/baigongzheng/) and [Zhiyao Duan](http://www2.ece.rochester.edu/~zduan/)
-  
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
