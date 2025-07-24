@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Spring 2024~Now: Full-time Research Scientist/Engineer
+* Spring 2024~Now: Research Scientist/Engineer
   * Adobe Research
   * Research Topic: Music generation
 
@@ -26,7 +26,7 @@ Work experience
   * Research Topic: High-fidelity music vocoding
   * Supervisor: [Nick Bryan](https://ccrma.stanford.edu/~njb/) and [Juan-Pablo Caceres](https://ccrma.stanford.edu/~jcaceres/)
 
-* Spring 2023: Part-time Research Scientist Intern
+* Spring 2023: Research Scientist Intern
   * Ubisoft
   * Research Topic: Controllable high-quality sound effects generation 
   * Supervisor: [Marc-André Carbonneau](https://sites.google.com/site/marcandrecarbonneau/?pli=1)

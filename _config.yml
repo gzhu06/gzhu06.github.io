@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ge Zhu (朱舸)"
 title_separator          : "-"
 name                     : &name "Ge Zhu"
-description              : &description "Phd Candidate in University of Rochester"
+description              : &description "Research Scientist/Engineer at Adobe Research"
 url                      : https://gzhu06.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : 
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ge Zhu"
   avatar           : "bio-photo.jpg"
-  bio              : "Speech Processing, Audio Processing"
-  location         : "Rochester, New York"
+  bio              : "Deep Generative Models for Music and Audio"
+  location         : "San Francisco, California, USA"
   employer         :
   pubmed           : 
   googlescholar    : https://scholar.google.com/citations?user=scVX7KMAAAAJ&hl=en
-  email            : ge.zhu@rochester.edu
+  email            : gzhu@adobe.com
   researchgate     : 
   uri              :
   bitbucket        :
