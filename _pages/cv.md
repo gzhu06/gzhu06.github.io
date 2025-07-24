@@ -19,28 +19,24 @@ Work experience
 ======
 * Spring 2024~Now: Full-time Research Scientist/Engineer
   * Adobe Research
-  * Research Topic: Music AI
+  * Research Topic: Music generation
 
-* Summer 2023: Research intern
+* Summer 2023: Research Scientist Intern
   * Adobe Research
+  * Research Topic: High-fidelity music vocoding
   * Supervisor: [Nick Bryan](https://ccrma.stanford.edu/~njb/) and [Juan-Pablo Caceres](https://ccrma.stanford.edu/~jcaceres/)
 
-* Spring 2023: Part-time research intern
+* Spring 2023: Part-time Research Scientist Intern
   * Ubisoft
   * Research Topic: Controllable high-quality sound effects generation 
-  * Supervisor: [Marc-André Carbonneau](https://sites.google.com/site/marcandrecarbonneau/?pli=1)  
+  * Supervisor: [Marc-André Carbonneau](https://sites.google.com/site/marcandrecarbonneau/?pli=1)
 
-* Fall 2021~Fall 2022: Part-time research engineer
-  * Adobe Research
-  * Research Topic: Deployment of robust voice activity detection and filler word detection
-  * Supervisor: [Juan-Pablo Caceres](https://ccrma.stanford.edu/~jcaceres/) and [Justin Salamon](https://www.justinsalamon.com/) 
-
-* Summer 2021: Research intern
+* Summer 2021~Fall 2022: Research Scientist/Engineer Intern
   * Adobe Research
   * Research Topic: Robust voice activity detection and filler word detection
   * Supervisor: [Justin Salamon](https://www.justinsalamon.com/) and [Juan-Pablo Caceres](https://ccrma.stanford.edu/~jcaceres/)
 
-* Fall 2020: Research intern
+* Fall 2020: Research Engineer Intern
   * Kuaishou Technology 
   * Research Topic: Lyrics onset detection and singing voice conversion
   * Supervisor: [Baigong Zheng](https://www.linkedin.com/in/baigongzheng/) and [Zhiyao Duan](http://www2.ece.rochester.edu/~zduan/)
